@@ -1,28 +1,28 @@
-# ldaskjf
-  ## Description
-  alskdfj
+# ReadMe Generator
+  ## [Description](#Table-of-Contents)
+  This project was built in node.js using the inquirer package and runs on the command line.
 
+  ![MIT](https://img.shields.io/badge/License-MIT-blue)
+  ## Table-of-Contents
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Contribution](#Contribution)
+  * [License](#License)
+  * [Questions](#Questions)
   
-    !MIT(https://img.shields.io/badge/License-MIT-blue)
-    
-  ## Table of Contents
-  * [Installation](Installation)
-  * [Usage](Usage)
-  * [Credits](Usage)
-  * [License](License)
-  * [Questions](Questions)
-  
-  ## Installation
-  asd;fl
+  ## Installation 
+  Clone repo, run npm init, install dependencies, run node.js
 
   ## Usage
-  a;lsdjf
+  Fill in the text boxes. Leave the ones you do not wish to fill blank.
 
-  ## Credits
-  a;sldf
+  ## Contribution
+  To contribute to this application, create a pull request. Fork Repo, create a feature branch, commit you new feature, 
 
   ## License
   MIT
+  Please visit the link to view the License link.
+  [MIT](https://choosealicense.com/licenses/MIT)
 
   ## Questions
   Please contact me using the following links:
